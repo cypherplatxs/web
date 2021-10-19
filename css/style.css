@@ -35,8 +35,8 @@ body{
 }
 /*----start-header-----*/
 .header{
-	background:#323A45;
-	border-bottom:2px solid #ca0000;
+	background:#000000;
+	border-bottom:2px solid #4fdd00;
 }
 .logo{
 	float: left;
@@ -51,7 +51,7 @@ body{
 }
 .top-nav ul li a{
 	font-family: 'Roboto', sans-serif;
-	color: #d6d6d6;
+	color: #4fdd00;
 	padding: 40px 25px;
 	display: block;
 	position: relative;
@@ -64,7 +64,7 @@ body{
 }
 .top-nav li.active a, .top-nav li a:hover {
 	color:#FFF;
-	background:#c40f0f;
+	background:#4fdd00;
 }
 /*---start-content----*/
 .content {
