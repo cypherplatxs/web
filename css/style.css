@@ -291,14 +291,14 @@ body{
 }
 .footer-grid h3{
 	font-size: 1.5em;
-	color: #fff;
+	color: #f500f5;
 	text-transform: uppercase;
 	font-family: 'Roboto', sans-serif;
 	margin-bottom: 20px;
 }
 .footer-grid p{
 	font-size: 0.875em;
-	color:#FFF;
+	color:#f500f5;
 	font-family: Arial, Helvetica, sans-serif;
 	line-height: 1.8em;
 }
