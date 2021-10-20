@@ -33,6 +33,12 @@ body{
 	-o-transition:all .2s linear; /* opera */
 	-ms-transition:all .2s linear;
 }
+
+
+.wrap h1{
+  color: #000000;
+	font-size: 2.575em;
+}
 /*----start-header-----*/
 .header{
 	background:#000000;
@@ -143,8 +149,8 @@ body{
 	font-family: 'PT Sans Narrow', sans-serif;
 }
 .grid p{
-	font-size: 0.875em;
-	color: rgba(148, 145, 145, 0.84);
+	font-size: 0.575em;
+	color: #000000;
 	font-family: Arial, Helvetica, sans-serif;
 	padding: 0em 1em 1em 1em;
 	line-height: 1.5em;
@@ -152,7 +158,6 @@ body{
 .button{
 	font-family: 'Roboto', sans-serif;
 	color: #ffffff;
-	background-color:#d40d0d;
 	display: inline-block;
 	text-transform: uppercase;
 	padding: 10px 30px;
