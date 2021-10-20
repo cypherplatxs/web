@@ -481,8 +481,9 @@ body{
 	padding: 5px 0px;
 }
 /*---plans-404page-----*/
-.error-page{
+.error-page {
 	text-align:center;
+background: #000000;
 }
 .error-page p{
 	font-family: 'Roboto', sans-serif;
