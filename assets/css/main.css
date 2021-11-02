@@ -100,7 +100,7 @@ input, select, textarea {
 
 	body {
 		background-color: #000000;
-		
+
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -314,8 +314,8 @@ input, select, textarea {
 	h1 {
 		color:chartreuse;
 	}
-	
-	
+
+
 	h2, h3, h4, h5, h6 {
 		color: #ffffff;
 	}
@@ -3218,7 +3218,7 @@ input, select, textarea {
 		-ms-transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
 		transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
 		background-color: #15ff00;
-		color: #636363;
+		color: #000000;
 		position: absolute;
 		width: 64em;
 		max-width: calc(100% - 4em);
