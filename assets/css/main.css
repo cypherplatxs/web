@@ -325,8 +325,9 @@ input, select, textarea {
 	}
 
 	code {
-		background: rgba(255, 255, 255, 0.075);
-		border-color: rgba(255, 255, 255, 0.35);
+		background: rgba(247, 0, 255, 0.993);
+		border-color: #15ff00;
+		color: #15ff00;
 	}
 
 	hr {
@@ -3251,8 +3252,8 @@ input, select, textarea {
 		}
 
 		#nav code {
-			background: rgba(222, 222, 222, 0.25);
-			border-color: #dddddd;
+			background: rgba(204, 0, 255, 0.25);
+			border-color: #15ff00;
 		}
 
 		#nav hr {
@@ -3362,8 +3363,9 @@ input, select, textarea {
 		}
 
 		#main code {
-			background: rgba(222, 222, 222, 0.25);
-			border-color: #dddddd;
+			background: rgba(255, 0, 242, 0.726);
+			border-color: #88ff00;
+			color: #15ff00;
 		}
 
 		#main hr {
