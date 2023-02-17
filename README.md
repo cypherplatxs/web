@@ -1,4 +1,4 @@
-#  ☭ Cypherplaxs web ☭
+#  ☭ Cypherplatxs web ☭
 
 Hasta ahora está todo en inglés, en el futuro podremos integrar soporte para cambio de lenguaje.
 
@@ -22,7 +22,7 @@ Información más detallada sobre cyphers, su propósito, etc
 [Web ](https://cypherplatxs.github.io/)
 
 
-
+## Repo  dev 
 
 ### ☭ 	yarn install 
 ### ☭	yarn start    
